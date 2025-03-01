@@ -16,7 +16,6 @@ Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warma10032&theme=radical" alt="GitHub Streak"/>
 </p>
-
 <!-- GitHub 四维能力图 -->
 
 <p align="center">
