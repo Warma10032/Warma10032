@@ -44,7 +44,7 @@ Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
   </a>
 </p>
 
-## 🛠️ Technologies & Tools | 技术栈
+## 🛠️ Technologies & Tools | 技术栈 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4">
