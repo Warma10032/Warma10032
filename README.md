@@ -12,6 +12,9 @@ Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
 
 
 <!-- GitHub 活动统计图 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Warma10032&theme=radical&row=1" alt="GitHub Trophies"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warma10032&theme=radical" alt="GitHub Streak"/>
@@ -38,7 +41,13 @@ Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
   <a href="https://github.com/Warma10032/cyber-doctor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=cyber-doctor&theme=radical" />
   </a>
-  <a href="https://github.com/Warma10032/hajimi-encoder">
+  <a href="https://github.com/Warma10032/easytts">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=easytts&theme=radical" />
+  </a>
+    <a href="https://github.com/Warma10032/VideoAdGuard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=VideoAdGuard&theme=radical" />
+  </a>
+    <a href="https://github.com/Warma10032/hajimi-encoder">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=hajimi-encoder&theme=radical" />
   </a>
 </p>
