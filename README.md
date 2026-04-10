@@ -1,66 +1,17 @@
-# Hi there 👋, I'm Warma10032
+![img](./README/github-header-banner.png)
 
-Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
+# 💫 About Me:
+🔭 I’m continuously learning about LLMs, AI agents, and scalable AI systems<br>🤝 I’m open to collaborating on AI-driven products, LLM applications, and intelligent systems<br>💼 I’m seeking roles in AI product engineering, applied AI, or AI R&D
 
-## 🌟 About Me | 关于我
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-- 🌱 I'm passionate about coding and continuous learning
-- 💡 Always exploring new technologies and projects
-- 🤝 Open to collaborating on interesting projects
-
-## 📊 GitHub Analytics | GitHub 统计
-
-
-<!-- GitHub 活动统计图 -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Warma10032&theme=radical&row=1" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warma10032&theme=radical" alt="GitHub Streak"/>
-</p>
-<!-- GitHub 四维能力图 -->
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Warma10032&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warma10032&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warma10032&theme=radical" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warma10032&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Warma10032&theme=radical&utcOffset=8" />
-</p>
+# 📊 GitHub Stats:
+![GitHub Stats](https://ghstats.dev/api/card?username=Warma10032&show_ring=false&hide_title=true)
+![Top Languages](https://ghstats.dev/api/langs?username=Warma10032&hide_border=true&hide_title=true&border_radius=0&max_langs=12)
 
 
-## ⭐ Popular Projects | 热门项目
-
-<p align="center">
-  <a href="https://github.com/Warma10032/cyber-doctor">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=cyber-doctor&theme=radical" />
-  </a>
-  <a href="https://github.com/Warma10032/easytts">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=easytts&theme=radical" />
-  </a>
-    <a href="https://github.com/Warma10032/VideoAdGuard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=VideoAdGuard&theme=radical" />
-  </a>
-    <a href="https://github.com/Warma10032/hajimi-encoder">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=hajimi-encoder&theme=radical" />
-  </a>
-</p>
-
-## 🛠️ Technologies & Tools | 技术栈 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ff69b4">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=ff69b4">
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=ff69b4">
-</p>
-
-## 📫 How to Reach Me | 联系方式
+## 📫 Connect
 
 <p align="center">
   <a href="https://github.com/Warma10032" target="_blank">
@@ -75,12 +26,9 @@ Welcome to my GitHub profile! | 欢迎来到我的 GitHub 主页！
   <a href="mailto:1601302408@qq.com">
     <img src="https://img.shields.io/badge/Email-邮箱-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Warma10032&color=ff69b4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Warma10032&color=ff69b4&style=flat" alt="Profile views"/>
 </p>
 
 
----
-
-⭐️ From [Warma10032](https://github.com/Warma10032)
-
-<!-- Last updated: 2025-02-13 05:29:17 UTC -->
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/tangziye2e)
