@@ -31,19 +31,19 @@ Welcome to my GitHub profile!
 ## ⭐ Featured Projects | 精选项目
 
 <p align="center">
-  <a href="https://github.com/Warma10032/cyber-doctor">
+  <a href="https://github.com/Warma10032/cyber-doctor" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=cyber-doctor&theme=radical" alt="cyber-doctor" />
   </a>
-  <a href="https://github.com/Warma10032/easytts">
+  <a href="https://github.com/Warma10032/easytts" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=easytts&theme=radical" alt="easytts" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Warma10032/VideoAdGuard">
+  <a href="https://github.com/Warma10032/VideoAdGuard" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=VideoAdGuard&theme=radical" alt="VideoAdGuard" />
   </a>
-  <a href="https://github.com/Warma10032/hajimi-encoder">
+  <a href="https://github.com/Warma10032/hajimi-encoder" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Warma10032&repo=hajimi-encoder&theme=radical" alt="hajimi-encoder" />
   </a>
 </p>
@@ -59,13 +59,13 @@ Welcome to my GitHub profile!
 ## 📫 Contact | 联系我
 
 <p align="center">
-  <a href="https://github.com/Warma10032">
+  <a href="https://github.com/Warma10032" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Warma10032-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.xiaobaozi.cn">
+  <a href="https://www.xiaobaozi.cn" target="_blank">
     <img src="https://img.shields.io/badge/Blog-小包子的博客-FF4088?style=flat&logo=hexo&logoColor=white" alt="Blog" />
   </a>
-  <a href="https://space.bilibili.com/397711814">
+  <a href="https://space.bilibili.com/397711814" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-一只小包子丶-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili" />
   </a>
   <a href="mailto:1601302408@qq.com">
