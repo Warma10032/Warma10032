@@ -16,6 +16,9 @@ Welcome to my GitHub profile!
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Warma10032&theme=radical&row=1" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Warma10032&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -26,6 +29,11 @@ Welcome to my GitHub profile!
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Warma10032&theme=radical" alt="Repos Per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warma10032&theme=radical" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Warma10032&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Warma10032&theme=radical&utcOffset=8" alt="Productive Time" />
 </p>
 
 ## ⭐ Featured Projects | 热门项目
