@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🤝 Open to collaboration on interesting ideas  
   欢迎一起合作有趣的项目
 
-## 📊 GitHub Stats | GitHub 数据
+## 📊 GitHub Stats | GitHub 统计
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Warma10032&theme=radical&row=1" alt="GitHub Trophies" />
@@ -28,7 +28,7 @@ Welcome to my GitHub profile!
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Warma10032&theme=radical" alt="Most Commit Language" />
 </p>
 
-## ⭐ Featured Projects | 精选项目
+## ⭐ Featured Projects | 热门项目
 
 <p align="center">
   <a href="https://github.com/Warma10032/cyber-doctor" target="_blank">
