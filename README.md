@@ -11,6 +11,11 @@
 ![Top Languages](https://ghstats.dev/api/langs?username=Warma10032&hide_border=true&hide_title=true&border_radius=0&max_langs=12)
 
 
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tangziye2e)
+[![爱发电](https://img.shields.io/badge/%E7%88%B1%E5%8F%91%E7%94%B5-Support%20Me-ea4aaa?style=for-the-badge&logo=leanpub&logoColor=white)](https://ifdian.net/a/Warma10032)
+
 ## 📫 Connect
 
 <p align="center">
@@ -28,7 +33,3 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Warma10032&color=ff69b4&style=flat" alt="Profile views"/>
 </p>
-
-
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/tangziye2e)
