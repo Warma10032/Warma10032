@@ -1,5 +1,7 @@
 ![img](./README/github-header-banner.png)
 
+> Due to account reasons, my projects are now maintained by [ZeroTang05](https://github.com/ZeroTang05)
+
 # 💫 About:
 🔭 I’m continuously learning about LLMs, AI agents, and scalable AI systems<br>🤝 I’m open to collaborating on AI-driven products, LLM applications, and intelligent systems<br>💼 I’m seeking roles in AI product engineering, applied AI, or AI R&D
 
